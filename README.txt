@@ -1,4 +1,4 @@
-Authors: Kevin Perez, Babak Bahaddin, Saeed Langarudi 
+Authors: Kevin Perez, Babak Bahaddin
 New Mexico Water Resources Research Institute 
 Produce water model version 1.0. 
 Written  in Fortran 90.
@@ -7,7 +7,7 @@ Compiled with gfortran.
 ***************************************
 RUN THE MODEL
 ***************************************
-Run from any terminal the file ./PW_Program.exe
+Run from any terminal the file ./Program.exe
 
 ***************************************
 INPUT FILES
