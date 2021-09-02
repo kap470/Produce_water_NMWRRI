@@ -1,0 +1,40 @@
+Number of Oil Wells
+ow    2648
+Number of Gas Wells
+gw    352
+Number of Injection Wells
+iw    94
+Initial time
+tini  0.0
+Final Time
+tend  312.0
+Size of time step
+dt    1.0
+Number of columns in the raster file
+Ncols 308
+Number of rows in the raster file
+Nrows 365
+X coordinate of the bottom left pixel
+Xcor  604100.0
+Y coordinate of the bottom left pixel
+Ycor  3541300.0
+Size of pixels
+delta 100.0
+Non-value in raster maps
+nan   -9999
+Cost of transportation one mile for producing water
+cost  1.0
+Initial value of Oil Well stock
+OWS0  50000.0
+Initial value of injection well stock
+INJS0 0.0
+Number of treatment plants
+NTP   1
+Treatment plant capacity
+TPCAP 100000.0
+Rate of treatment plant for transportation
+RTPT  0.1
+Rate of treatment plant outflow
+RTPO  0.4
+Initial value for treatment plant stock
+TPS0  0.0
